@@ -1,0 +1,8 @@
+E:\CoreExample\coreweb\bin\Debug\netcoreapp1.0\coreweb.deps.json
+E:\CoreExample\coreweb\bin\Debug\netcoreapp1.0\coreweb.runtimeconfig.json
+E:\CoreExample\coreweb\bin\Debug\netcoreapp1.0\coreweb.runtimeconfig.dev.json
+E:\CoreExample\coreweb\bin\Debug\netcoreapp1.0\coreweb.dll
+E:\CoreExample\coreweb\bin\Debug\netcoreapp1.0\coreweb.pdb
+E:\CoreExample\coreweb\obj\Debug\netcoreapp1.0\coreweb.AssemblyInfo.cs
+E:\CoreExample\coreweb\obj\Debug\netcoreapp1.0\coreweb.dll
+E:\CoreExample\coreweb\obj\Debug\netcoreapp1.0\coreweb.pdb
